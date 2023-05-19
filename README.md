@@ -1,2 +1,2 @@
-# primeiros-projetos-em-python
-Repositório criado para guardar meus primeiros projetos em Python
+# study-projects
+Repository created to store my study projects.
