@@ -1,0 +1,3 @@
+#!/bin/bash
+clear
+echo "informações sobre o sistema"
